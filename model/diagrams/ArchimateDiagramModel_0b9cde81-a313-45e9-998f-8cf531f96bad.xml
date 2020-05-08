@@ -1,0 +1,231 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business objects"
+    id="0b9cde81-a313-45e9-998f-8cf531f96bad">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6edf059b-c886-46d2-8878-eb65729bbe98"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Bolig:&#xD;&#xA;Opplysning om bolig og relasjon til planer, eiendom og eierskap.">
+    <bounds
+        x="46"
+        y="142"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="638b48d3-48d4-4bb8-8939-ccbbd4fab78a"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Familie:&#xD;&#xA;Opplysninger om personer, relasjoner til hverandre og roller en person har gjennom et liv.">
+    <bounds
+        x="46"
+        y="46"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c55aac46-8d4a-4431-b6cb-ce114e068b14"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Forebygge:&#xD;&#xA;Opplysninger om forebygging og beredskap innenfor brann og lovbrudd.">
+    <bounds
+        x="454"
+        y="238"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6602a527-6c88-4118-a423-b90978090904"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Fritid:&#xD;&#xA;Opplysninger om fritidstilbud og forvaltning av disse.">
+    <bounds
+        x="658"
+        y="46"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="be2bfce0-1c71-4855-a208-01fa71e5ddd8"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Helse:&#xD;&#xA;Opplysninger om helse, tjenester for syke og bruk av disse.">
+    <bounds
+        x="658"
+        y="142"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="81512b19-0e49-4c08-a1a7-f41829433eec"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Infrastruktur:&#xD;&#xA;Opplysninger om nødvendig infrastruktur som vann, strøm, tilflukt og transport.">
+    <bounds
+        x="250"
+        y="142"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="76f63114-fc37-4cab-846c-9e1484853541"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Jobb:&#xD;&#xA;Opplysninger om jobbforhold.">
+    <bounds
+        x="454"
+        y="46"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="03b7fc73-c4d0-42d7-a70e-83cdf8a9d78d"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Kommune internt:&#xD;&#xA;Opplysninger internt for drift av kommunen.">
+    <bounds
+        x="862"
+        y="238"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0ccbab3e-5fcd-4e92-aa64-7a70e3a1fd65"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Medvirkning:&#xD;&#xA;Opplysninger om hvordan personer kan påvirke offentlige tjenester.">
+    <bounds
+        x="862"
+        y="46"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="53d66da4-84fc-43cf-848a-359f1ce85e67"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Miljø:&#xD;&#xA;Opplysninger om hvordan vi kan ta vare på miljøet.">
+    <bounds
+        x="454"
+        y="142"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7d3ec1b1-b282-4cbd-83a4-770632478ac6"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Næring:&#xD;&#xA;Opplysninger relatert til næringsvirksomhet&#xD;&#xA;(her ligger byggforvaltning)">
+    <bounds
+        x="46"
+        y="238"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8149ff46-a3e5-4eba-a203-6b939a46a7bc"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Oppvekst:&#xD;&#xA;Opplysninger om oppvekst, skole og kunnskapsoverføring.">
+    <bounds
+        x="250"
+        y="46"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="37be3de4-0f09-4631-a765-469ec963d703"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Politikk:&#xD;&#xA;Opplysninger om offentlig styring.">
+    <bounds
+        x="658"
+        y="238"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="590d3b59-c739-4d22-a886-2eb5c567d925"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Sosial hjelp:&#xD;&#xA;Opplysninger relatert til forhold for å hjelpe personer.">
+    <bounds
+        x="862"
+        y="142"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c72bb0d9-a120-4fca-b978-821783ec713d"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Økonomi:&#xD;&#xA;Opplysninger om forhold som har med penger å gjøre.">
+    <bounds
+        x="250"
+        y="238"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
