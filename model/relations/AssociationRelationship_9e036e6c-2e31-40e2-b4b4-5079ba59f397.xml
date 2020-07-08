@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="for bruk av Fiks tjeneste"
+    id="9e036e6c-2e31-40e2-b4b4-5079ba59f397">
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_43bfac4d-9de4-4b90-a747-a97dc508991c.xml#43bfac4d-9de4-4b90-a747-a97dc508991c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_76a60865-1588-40c3-b688-8ca167984785.xml#76a60865-1588-40c3-b688-8ca167984785"/>
+</archimate:AssociationRelationship>

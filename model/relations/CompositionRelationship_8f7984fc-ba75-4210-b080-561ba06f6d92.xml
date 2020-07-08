@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedlegg til"
+    id="8f7984fc-ba75-4210-b080-561ba06f6d92">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_7f7824d2-622e-44b1-9cfe-0e651d97773d.xml#7f7824d2-622e-44b1-9cfe-0e651d97773d"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_4f4bdfb6-8fa8-4cc0-9f3e-6361c490b042.xml#4f4bdfb6-8fa8-4cc0-9f3e-6361c490b042"/>
+</archimate:CompositionRelationship>

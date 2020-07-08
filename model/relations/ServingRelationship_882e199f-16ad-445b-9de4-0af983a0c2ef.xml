@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sikkerhets- og driftslogger"
+    id="882e199f-16ad-445b-9de4-0af983a0c2ef">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_b0a13d23-ce9a-4fc0-a60f-5e470fe29b31.xml#b0a13d23-ce9a-4fc0-a60f-5e470fe29b31"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_2797b115-3a54-4511-896f-5d97db1b2d3c.xml#2797b115-3a54-4511-896f-5d97db1b2d3c"/>
+</archimate:ServingRelationship>
