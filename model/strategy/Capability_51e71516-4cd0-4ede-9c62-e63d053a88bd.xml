@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sosiale tjenester"
+    id="51e71516-4cd0-4ede-9c62-e63d053a88bd">
+  <properties
+      key="Nivå"
+      value="1"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+</archimate:Capability>

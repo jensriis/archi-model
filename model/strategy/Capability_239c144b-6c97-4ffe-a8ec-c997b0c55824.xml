@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teknologiforvaltning"
+    id="239c144b-6c97-4ffe-a8ec-c997b0c55824"
+    documentation="Evnen til å planlegge, utvikle, drifte og forvalte infrastruktur og løsninger for IKT, telekommunikasjon, signal og video slik at disse bidrar til kvalitet og effektivitet i kjernevirksomheten og tilhørende arbeid. Dette inkluderer også håndtering av teknisk sikkerhet.">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

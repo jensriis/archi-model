@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Næring"
+    id="e4426ca2-2714-44c3-a4aa-6dcfe5d2c33c">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

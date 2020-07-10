@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bygg og eiendom"
+    id="dc2263ac-9b6d-48c5-9458-d0ee535cb6c0">
+  <properties
+      key="Nivå"
+      value="1"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+</archimate:Capability>

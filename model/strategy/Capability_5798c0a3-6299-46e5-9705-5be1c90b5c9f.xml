@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matforsyning"
+    id="5798c0a3-6299-46e5-9705-5be1c90b5c9f"
+    documentation="Evnen til å produsere og servere mat til pasienter, pårørende og medarbeidere. Inkludert i dette er også å sørge for riktig tilpasset mat ut fra pasienters spesifikke ernæringsbehov. Kantinedrift omfattes også.">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

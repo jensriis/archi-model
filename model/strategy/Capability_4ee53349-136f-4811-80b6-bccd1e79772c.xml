@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grunnskole"
+    id="4ee53349-136f-4811-80b6-bccd1e79772c"
+    documentation="En grunnskole er den første skoleformen i livet, der elever, oftest barn, lærer grunnleggende kunnskaper, blant annet å lese, regne og orienteringsfag. ">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

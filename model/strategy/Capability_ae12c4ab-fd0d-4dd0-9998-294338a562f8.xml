@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Førerkort og sertifikat"
+    id="ae12c4ab-fd0d-4dd0-9998-294338a562f8">
+  <properties
+      key="Kilde"
+      value="LOS"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

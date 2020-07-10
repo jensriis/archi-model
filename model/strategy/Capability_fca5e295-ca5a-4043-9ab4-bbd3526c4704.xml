@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voksenopplæring"
+    id="fca5e295-ca5a-4043-9ab4-bbd3526c4704"
+    documentation="Voksenopplæring er opplæringstilbud spesielt tilpasset voksne. ">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

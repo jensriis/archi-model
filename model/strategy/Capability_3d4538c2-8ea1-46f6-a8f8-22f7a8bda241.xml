@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kultur, idrett og fritid"
+    id="3d4538c2-8ea1-46f6-a8f8-22f7a8bda241">
+  <properties
+      key="Nivå"
+      value="1"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+</archimate:Capability>

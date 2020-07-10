@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helse og omsorg"
+    id="bf86154d-66fb-48b6-9207-313006172c5e">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

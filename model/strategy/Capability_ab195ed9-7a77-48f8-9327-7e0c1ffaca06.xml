@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vask og renhold"
+    id="ab195ed9-7a77-48f8-9327-7e0c1ffaca06"
+    documentation="Er denne en tjeneste under Eiendomsforvaltning?">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

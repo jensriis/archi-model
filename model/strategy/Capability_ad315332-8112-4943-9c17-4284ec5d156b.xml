@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Velferdsstøtte"
+    id="ad315332-8112-4943-9c17-4284ec5d156b"
+    documentation="Evnen til å tilby pasienter og pårørende kultur- og velferdstjenester på sykehuset, sykehjem eller i hjemmet for å sikre best mulig livskvalitet, samt rådgivning og støtte til pasienter og pårørende vedrørende deres rettigheter i forhold til helserelatert livssituasjon">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

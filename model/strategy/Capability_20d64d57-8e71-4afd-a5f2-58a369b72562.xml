@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommuneplan og handlingsplan"
+    id="20d64d57-8e71-4afd-a5f2-58a369b72562"
+    documentation="Evnen til å utvikle virksomheten for å gi innbyggerne bedre involvering i utvikling og bedre tjenester gjennom planer og handlingsplaner.">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personalledelse"
+    id="7f269561-8f34-4caf-8cb0-0cdae020d5a7"
+    documentation="Evnen til å rekruttere, sikre kompetanse, følge opp, evaluere og belønne medarbeidere, bygge organisasjonskultur, samt føre tilsyn over organisatorisk ledelse og sikre etterlevelse av lover og regler for arbeidsgivere og arbeidstakere.">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+</archimate:Capability>
